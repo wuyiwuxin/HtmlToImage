@@ -5,9 +5,10 @@ HtmlToImage.py 能显示一个类似浏览器界面的窗口，
 
 ##运行环境
 
-*Python2.7
-*PyQt4
-*Py2exe
++Python2.7
++PyQt4
++Py2exe
+
 
 
 ##setup的使用方法
